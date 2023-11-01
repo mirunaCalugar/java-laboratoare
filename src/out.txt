@@ -1,0 +1,4 @@
+Sum: 27.0
+Medie aritmetica: 4.5
+Min: 2.0
+Max: 8.0
